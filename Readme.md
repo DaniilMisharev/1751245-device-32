@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
-* Студент: [Даниил Мишарев](https://up.htmlacademy.ru/htmlcss/32/user/1751245).
-* Наставник: `Неизвестно`.
+- Студент: [Даниил Мишарев](https://up.htmlacademy.ru/htmlcss/32/user/1751245).
+- Наставник: [Voldymyr Snopok](https://htmlacademy.ru/profile/id1786243).
 
 ---
 
